@@ -1,1 +1,1 @@
-web: node tindog.js
+web: node app.js
